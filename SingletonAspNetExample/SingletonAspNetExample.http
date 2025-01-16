@@ -1,0 +1,6 @@
+@SingletonAspNetExample_HostAddress = http://localhost:5067
+
+GET {{SingletonAspNetExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
